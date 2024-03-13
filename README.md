@@ -2,7 +2,7 @@
 **Info-lamin/Info-lamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![Banner Image](assets/banner.jpg)
+![Banner Image](assets/banner.png)
 
 # Hi there 👋
 
@@ -89,7 +89,8 @@ Skillfully weaving digital threads to shape the fabric of tomorrow's technology.
 
 # 📊 GitHub Stats:
 
-## ![](https://github-readme-streak-stats.herokuapp.com/?user=info-lamin&theme=dark&hide_border=false)<br/>
+## ![](https://info-lamin-github-readme.vercel.app?user=info-lamin&theme=transparent&date_format=j%20M%5B%20Y%5D)<br/>
+<img src="https://raw.githubusercontent.com/info-lamin/info-lamin/output/snake.svg" alt="Snake animation" /><br/>
 
 ### ✍️ Random Dev Quote
 
